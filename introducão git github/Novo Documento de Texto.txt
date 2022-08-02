@@ -1,0 +1,46 @@
+introdução ao git/github
+
+"git e um sistema de vercionamento de codigo distribuido"
+
+O Q, vamos aprender!
+
+*mudar de paste
+*listar as pastas
+*criar as pastas
+*deletar as pastas
+
+Comandos básicos de navegação no windows.
+
+CD >possibilita a navegação entre as pastas
+
+CD.. >para voltar na navegação anterior
+ 
+DIR >comando para listar os diretorios 
+
+MKDIR >para criar uma pasta
+
+DEL/rmdir >remover repositorios com todos arquivos
+
+cls >comando para limpar o terminal, para limpar a tela
+
+TAB>funçao de auto completar
+
+
+#comandos#
+
+git add > para enviar arquivos para a área de stagem, para ser comitado
+
+git commit -n "comentario" >comando para comitar os arquivos para a área
+ empurrar para o comiti.
+
+git push origim master >comado para empurrar para o git hub.
+
+git pull >comando para puchar o conteudo do git para a máquina fazer alterações 
+no arquivo do git.
+
+git clone >comando para copiar repositorios para a sua máquina.
+
+LS -a >comando para repositorios ocultos 
+
+link para dowload:https://git-scm.com
+  
